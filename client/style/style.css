@@ -1,0 +1,26 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lyric-content {
+  flex: 18;
+}
+
+.lyric-likes {
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.lyric-like-button {
+  flex: 1;
+  justify-content: flex-end;
+}
+
+.material-icons {
+  cursor: pointer;
+}
+
+.lyric-form {
+  padding-top: 20;
+}
